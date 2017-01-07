@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/agent.hpp
+ctime
+-
+vector
+-
+utility
+-
+string
+-
+stack
+-
+queue
+-
+
+/home/rubanraj54/Desktop/Artificial Intelligence/Assignments/ass four/air_assignment_04/air_assignment_04/src/agent.cpp
+agent.hpp
+/home/rubanraj54/Desktop/Artificial Intelligence/Assignments/ass four/air_assignment_04/air_assignment_04/src/agent.hpp
+iostream
+-
+stack
+-
+queue
+-
+chrono
+-
+thread
+-
+time.h
+-
+
